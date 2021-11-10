@@ -18,7 +18,7 @@ export const WrapperIcon = styled.TouchableOpacity.attrs({
   activeOpacity: 0.9
 })`
   width: 40px;
-  margin-top: ${getBottomSpace() + RFValue(27)}px;
+  margin-top: ${getBottomSpace() + RFValue(36)}px;
 `;
 
 export const Icon = styled(Feather)`

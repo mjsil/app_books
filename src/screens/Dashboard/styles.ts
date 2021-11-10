@@ -26,7 +26,7 @@ export const Title = styled.Text`
   font-size: ${RFValue(12)}px;
   font-family: ${({theme}) => (theme.fonts.medium)};
   color: ${({theme}) => (theme.colors.text)};
-  margin-top: ${getBottomSpace() + RFValue(27)}px;
+  margin-top: ${getBottomSpace() + RFValue(36)}px;
 `;
 
 export const WrapperFilter = styled.View`
