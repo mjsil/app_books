@@ -1,5 +1,1 @@
-import axios from 'axios';
-
-export const api = axios.create({
-  baseUrl: 'https://'
-});
+export const baseUrl = 'http://biblioteca.supero.com.br/api';

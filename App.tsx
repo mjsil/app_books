@@ -9,7 +9,7 @@ import {
 } from '@expo-google-fonts/poppins';
 
 import { Theme } from './src/global/styles';
-import { DashboardScreen } from './src/screens/Dashboard';
+import { Routes } from './src/routes';
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -23,7 +23,7 @@ export default function App() {
   } else{
     return (
       <ThemeProvider theme={Theme}>
-        <DashboardScreen />
+        <Routes />
       </ThemeProvider>
     );
   }

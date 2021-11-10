@@ -2,7 +2,9 @@ import styled from 'styled-components/native';
 import { RFValue } from 'react-native-responsive-fontsize';
 import { Feather } from '@expo/vector-icons';
 
-export const Container = styled.View`
+export const Container = styled.TouchableOpacity.attrs({
+  activeOpacity: 0.9
+})`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
@@ -11,7 +13,7 @@ export const Container = styled.View`
   margin-bottom: 9px;
 `;
 
-export const Wrapper = styled.View`
+export const WrapperBook = styled.View`
   flex: 1;
 `;
 
