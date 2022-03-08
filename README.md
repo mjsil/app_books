@@ -16,7 +16,7 @@
 
 Mecanismo de busca de livros.
 
-Funcionalidades: Buscar livros pelo título, autor ou ISBN; Listar livros (título, ISBN, autor, editora, ano); Apresentar quantidades de registros encontrados; Paginar o resultado da busca; Filtrar livros pelo período (ano); Visualizar detalhes dos livro (apresentar todos os atributos);
+Funcionalidades: Buscar livros pelo título, autor ou ISBN; Listar livros (título, ISBN, autor, editora, ano); Apresentar quantidades de registros encontrados; Paginar o resultado da busca; Filtrar livros pelo período (ano); Visualizar detalhes dos livro (apresentar todos os atributos); dados presentes na api: http://biblioteca.supero.com.br/api
 
 ## 🚀 Tecnologias
 
