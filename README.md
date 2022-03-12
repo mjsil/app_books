@@ -32,7 +32,6 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 - [Expo Icons](https://icons.expo.fyi/)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
-- [EditorConfig](https://editorconfig.org/)
 
 ## 💻 Instalação, execução e desenvolvimento
 
